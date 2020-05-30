@@ -4,7 +4,7 @@ Jupyter notebook for Natural Language Processing
 ## SETUP
 
 See following summary of installation of NLP tools  
-https://github.com/aYukiYoshida/tips/blob/master/nlp/tool/install.md
+https://github.com/aYukiYoshida/tips/blob/master/nlp/INSTALL-TOOLS.md
 
 ## CONTENTS
 
